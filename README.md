@@ -26,10 +26,12 @@
 
 ### 🚀 About Me
 
-- 🎓 B.Tech in Computer Science @ GJU, Hisar (2023 - 2026)  
-- 🧠 Solved **150+ DSA problems** on [LeetCode](https://leetcode.com/u/premnagarrohtas456_/)&nbsp;|&nbsp;[GeeksforGeeks](https://www.geeksforgeeks.org/user/premnagarrohtas456_/)
-- 🌱 Learning System Design, Low-Level DSA, and Competitive Programming  
-- 🔭 Built projects using **Java, MERN, Python ML tools**
+- 🎓 **Computer Science and Engineering** from **GJU S&T, Hisar** (2023–2026)  
+- 🛠️ **Ex-Mechanical Engineering** background turned passionate coder  
+- 👨‍💻 Solved **120+ DSA problems** on [LeetCode](https://leetcode.com/u/premnagarrohtas456_/)&nbsp;|&nbsp;[GeeksforGeeks](https://www.geeksforgeeks.org/user/premnagarrohtas456_/)
+- 💡 Skilled in **Java**, **Python**, **Machine Learning**, **SQL**, and **Data Analytics**
+- 💼 Completed internship with **@IBMSkillsBuild**  
+- 🧠 Actively exploring full-stack projects and solving real-world problems
 
 ---
 
@@ -70,11 +72,11 @@
 ### 🧰 Tech Toolbox
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode)
 
 ---
