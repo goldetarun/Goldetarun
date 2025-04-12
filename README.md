@@ -2,9 +2,24 @@
 
 <p align="center">
   <b>Java DSA Enthusiast | B.Tech CSE Student | MERN Stack Developer | Data Analytics Explorer</b><br>
-  <a href="mailto:abhaykumarnokha321@gmail.com">Email</a> |
-  <a href="https://www.linkedin.com/in/abhaykumar6299">LinkedIn</a> |
-  <a href="https://github.com/yourusername">GitHub</a>
+</p>
+
+<p align="center">
+  <a href="mailto:abhaykumarnokha321@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://leetcode.com/u/premnagarrohtas456_/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/premnagarrohtas456_/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-14A800?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
+  </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/abhaykumar6299">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 ---
@@ -24,13 +39,9 @@
   <img src="https://leetcard.jacoblin.cool/premnagarrohtas456_?ext=contest&theme=dark" alt="LeetCode Stats" />
 </p>
 
-> **150+ problems solved** | Language of choice: **Java**
-
 ---
 
 ### 📊 GFG Live Stats
-
-> *GFG currently doesn't provide an API for dynamic badges, so here’s a workaround:*
 
 - **Username**: [premnagarrohtas456_](https://www.geeksforgeeks.org/user/premnagarrohtas456_/)
 - **Topics Covered**: Arrays, Linked List, Trees, DP, Graphs, Searching & Sorting
@@ -70,20 +81,15 @@
 
 ### 🏆 Achievements & Certifications
 
-- 🥇 **Ranked 93** in Haryana for B.Tech CSE @ GJU
+- 🥇 **Secured Rank 93** in Haryana for B.Tech CSE @ GJU
 - 🚀 **Google Cloud Arcade Facilitator – Ultimate Milestone Achieved**
 - ✅ **IBM Certified** in Data Analytics & Emerging Tech
 - ✅ **HackerRank MySQL** Certified
 
 ---
 
-### 📫 Let’s Connect!
+### 📬 Let's Connect
 
-- **Email**: abhaykumarnokha321@gmail.com  
-- **LinkedIn**: [linkedin.com/in/abhaykumar6299](https://www.linkedin.com/in/abhaykumar6299)  
-- **LeetCode**: [leetcode.com/u/premnagarrohtas456_/](https://leetcode.com/u/premnagarrohtas456_/)
-- **GeeksforGeeks**: [geeksforgeeks.org/user/premnagarrohtas456_/](https://www.geeksforgeeks.org/user/premnagarrohtas456_/)
-
----
+If you're looking for someone passionate about Java DSA, MERN stack, and solving real-world problems, let’s connect!
 
 > *"Dream in code. Build what matters. Solve the real stuff!"*
