@@ -12,59 +12,72 @@
 ### 🚀 About Me
 
 - 🎓 B.Tech in Computer Science @ GJU, Hisar (2023 - 2026)  
-- 🧠 Strong foundation in **Data Structures & Algorithms** using **Java**
-- 👨‍💻 Solved **150+ problems** on [LeetCode](https://leetcode.com/u/premnagarrohtas456_/)&nbsp;|&nbsp;[GeeksforGeeks](https://www.geeksforgeeks.org/user/premnagarrohtas456_/)
-- 🌱 Learning System Design and low-level problem solving
-- 🧪 Built real-world projects using ML, React, Node, MongoDB
+- 🧠 Solved **150+ DSA problems** on [LeetCode](https://leetcode.com/u/premnagarrohtas456_/)&nbsp;|&nbsp;[GeeksforGeeks](https://www.geeksforgeeks.org/user/premnagarrohtas456_/)
+- 🌱 Learning System Design, Low-Level DSA, and Competitive Programming  
+- 🔭 Built projects using **Java, MERN, Python ML tools**
 
 ---
 
-### 📈 DSA Stats
+### 📈 LeetCode Dashboard
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/premnagarrohtas456_?ext=heatmap&theme=dark)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/premnagarrohtas456_?ext=contest&theme=dark" alt="LeetCode Stats" />
+</p>
 
-> ⚡ Passionate about solving algorithmic challenges and writing clean, efficient Java code.
+> **150+ problems solved** | Language of choice: **Java**
 
 ---
 
-### 💼 Projects
+### 📊 GFG Live Stats
+
+> *GFG currently doesn't provide an API for dynamic badges, so here’s a workaround:*
+
+- **Username**: [premnagarrohtas456_](https://www.geeksforgeeks.org/user/premnagarrohtas456_/)
+- **Topics Covered**: Arrays, Linked List, Trees, DP, Graphs, Searching & Sorting
+- **Practice Links**:
+  - [Solved Problems](https://practice.geeksforgeeks.org/user/premnagarrohtas456_/practice)
+  - [Company-wise Questions](https://practice.geeksforgeeks.org/explore?page=1&sortBy=submissions)
+
+---
+
+### 💼 Featured Projects
 
 #### [Blog App](https://github.com/yourusername/blog-app)
-> A modern blogging platform built using the **MERN stack**.
+> A modern blogging platform built with MERN stack.
 
-- Auth with JWT, user dashboards, admin blog control
-- Built using **React, Redux, Express, MongoDB**
+- Features: Auth, CRUD blogs, comments, trending UI
+- Stack: React, Redux, Node.js, MongoDB, JWT
 
 #### [Flood Analysis & Prediction](https://github.com/yourusername/flood-prediction)
-> Data Science project using real-world flood data and **Linear Regression**
+> Machine Learning project for flood forecasting using regression.
 
-- Tools: **Pandas**, **Matplotlib**, **Sklearn**
-- Focus on **preprocessing**, **model validation**, and **visualization**
-
----
-
-### ⚙️ Tools & Tech Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- Stack: Pandas, NumPy, Scikit-learn, Matplotlib
+- Features: Real-time data insights, model validation, visual analytics
 
 ---
 
-### 🏆 Achievements
+### 🧰 Tech Toolbox
 
-- 🥇 **Secured Rank 93** in Haryana for CSE admission at GJU
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode)
+
+---
+
+### 🏆 Achievements & Certifications
+
+- 🥇 **Ranked 93** in Haryana for B.Tech CSE @ GJU
 - 🚀 **Google Cloud Arcade Facilitator – Ultimate Milestone Achieved**
-- ✅ Certified by **IBM SkillsBuild** in Data Analytics
-- ✅ **HackerRank Certified** in MySQL
+- ✅ **IBM Certified** in Data Analytics & Emerging Tech
+- ✅ **HackerRank MySQL** Certified
 
 ---
 
-### 📫 Connect with Me
+### 📫 Let’s Connect!
 
 - **Email**: abhaykumarnokha321@gmail.com  
 - **LinkedIn**: [linkedin.com/in/abhaykumar6299](https://www.linkedin.com/in/abhaykumar6299)  
@@ -73,4 +86,4 @@
 
 ---
 
-> *"Success in coding comes from solving one problem at a time. Keep building, keep solving!"*
+> *"Dream in code. Build what matters. Solve the real stuff!"*
