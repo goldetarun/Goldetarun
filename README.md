@@ -64,3 +64,131 @@ I'm a passionate Computer Science undergrad with a strong grip on **Data Structu
 ---
 
 > “Consistency is what transforms average into excellence.” — Keep coding, keep growing!
+> 
+# Hi, I'm [Your Name] – Java DSA Enthusiast & Problem-Solving Ninja!
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
+## ⚡ Quick Bits
+- 💻 Solved **150+ DSA problems** using **Java**
+- 🧠 Platforms: [LeetCode](https://leetcode.com/yourusername) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/yourusername)
+- ⌨️ Languages: Java (Primary), C++ (Secondary)
+- 🔍 Focus Areas: Arrays, Strings, Trees, Graphs, Recursion, DP, Backtracking
+- 📚 Preparing for coding interviews & placement season
+
+---
+
+## 📈 Problem Solving Journey
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/yourusername?ext=heatmap&theme=dark)
+
+> *Consistency > Intensity* — One problem at a time, every day.
+
+---
+
+## 🚀 My DSA Weapon Kit (Java)
+
+| Category | Topics Covered |
+|----------|----------------|
+| Arrays & Strings | Prefix/Suffix, Two Pointers, Sliding Window, Sorting |
+| Recursion & Backtracking | Subsets, Permutations, Sudoku Solver |
+| Trees & Graphs | DFS, BFS, Binary Trees, Binary Search Trees, Graph Traversals |
+| Searching & Sorting | Binary Search, Merge Sort, Quick Sort |
+| Dynamic Programming | 0/1 Knapsack, LCS, LIS, Matrix DP |
+| Stack & Queue | Infix/Postfix, Monotonic Stack, Queue Reversal |
+| Linked List | Reversal, Cycle Detection, Merge Sort on Linked List |
+
+---
+
+## ⭐ DSA Highlights
+
+- **Best Streak**: 30+ days solving daily LeetCode challenges
+- **Mock Interviews**: Practiced 1-on-1 mock interviews via GFG IDE
+- **Code Style**: Clean Java with meaningful comments and optimized solutions
+
+---
+
+## 📌 Code Repositories
+
+- [**Java DSA Solutions**](https://github.com/yourusername/java-dsa-solutions)  
+  All my solved problems from LeetCode & GFG with explanations.
+
+- [**Java Notes for DSA**](https://github.com/yourusername/java-dsa-notes)  
+  My handwritten notes and cheat sheets categorized by topic.
+
+---
+
+## 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
+[![Gmail](https://img.shields.io/badge/-your.email@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+
+---
+
+> “Every great developer you know got there by solving problems they were unqualified to solve — until they actually did it.” – @heybarsee
+
+# Hi, I'm [Your Name] – Java DSA Enthusiast & Problem-Solving Ninja!
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
+## ⚡ Quick Bits
+- 💻 Solved **150+ DSA problems** using **Java**
+- 🧠 Platforms: [LeetCode](https://leetcode.com/yourusername) | [GeeksforGeeks](https://auth.geeksforgeeks.org/user/yourusername)
+- ⌨️ Languages: Java (Primary), C++ (Secondary)
+- 🔍 Focus Areas: Arrays, Strings, Trees, Graphs, Recursion, DP, Backtracking
+- 📚 Preparing for coding interviews & placement season
+
+---
+
+## 📈 Problem Solving Journey
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/yourusername?ext=heatmap&theme=dark)
+
+> *Consistency > Intensity* — One problem at a time, every day.
+
+---
+
+## 🚀 My DSA Weapon Kit (Java)
+
+| Category | Topics Covered |
+|----------|----------------|
+| Arrays & Strings | Prefix/Suffix, Two Pointers, Sliding Window, Sorting |
+| Recursion & Backtracking | Subsets, Permutations, Sudoku Solver |
+| Trees & Graphs | DFS, BFS, Binary Trees, Binary Search Trees, Graph Traversals |
+| Searching & Sorting | Binary Search, Merge Sort, Quick Sort |
+| Dynamic Programming | 0/1 Knapsack, LCS, LIS, Matrix DP |
+| Stack & Queue | Infix/Postfix, Monotonic Stack, Queue Reversal |
+| Linked List | Reversal, Cycle Detection, Merge Sort on Linked List |
+
+---
+
+## ⭐ DSA Highlights
+
+- **Best Streak**: 30+ days solving daily LeetCode challenges
+- **Mock Interviews**: Practiced 1-on-1 mock interviews via GFG IDE
+- **Code Style**: Clean Java with meaningful comments and optimized solutions
+
+---
+
+## 📌 Code Repositories
+
+- [**Java DSA Solutions**](https://github.com/yourusername/java-dsa-solutions)  
+  All my solved problems from LeetCode & GFG with explanations.
+
+- [**Java Notes for DSA**](https://github.com/yourusername/java-dsa-notes)  
+  My handwritten notes and cheat sheets categorized by topic.
+
+---
+
+## 📫 Let’s Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
+[![Gmail](https://img.shields.io/badge/-your.email@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+
+---
+
+> “Every great developer you know got there by solving problems they were unqualified to solve — until they actually did it.” – @heybarsee
