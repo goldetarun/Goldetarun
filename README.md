@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhay Kumar</h1>
 <h3 align="center">CSE @ GJU S&T | Ex-Mechanical | Java | Python | ML | Data | IBM Intern</h3>
-
+live link : Live Link : https://gp-smart-crop-advisor-jicx.onrender.com/
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Machine+Learning+Enthusiast;Java+%7C+Python+Developer;Data+Analytics+%7C+SQL+%7C+Pandas;LeetCode+Problem+Solver;Google+Cloud+Arcade+Facilitator+'25;Always+Learning+New+Tech!">
